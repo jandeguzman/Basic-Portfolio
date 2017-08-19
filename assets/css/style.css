@@ -179,7 +179,7 @@ footer {
     overflow:hidden;
     border-top: 7px solid #4aaaa5;
     clear: both;
-    position: absolute;
+    position: fixed;
 }
 
 #copyright {margin: 35px 0 0 0;
